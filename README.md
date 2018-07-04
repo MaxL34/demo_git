@@ -5,4 +5,4 @@ tout se passe bien
 
 Et maintenant on modifie depuis Github
 
-Mais aussi depuis ma machine
+Mais aussi depuis ma machine et c'est trop cool
